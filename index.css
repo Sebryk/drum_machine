@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Cursed Timer ULiL";
+  font-family: 'Cursed Timer ULiL';
   src: url(fonts/CursedTimerUlil.ttf);
 }
 
@@ -24,7 +24,7 @@
   margin: auto;
 }
 .drum-machine__title {
-  font-family: "Cursed Timer ULiL";
+  font-family: 'Cursed Timer ULiL';
   color: black;
   font-size: 3rem;
   text-align: center;
@@ -65,7 +65,7 @@
   overflow: visible;
 }
 
-.pressed-pad {
+.pad--pressed {
   background-color: #e574bc;
   color: black;
 }
